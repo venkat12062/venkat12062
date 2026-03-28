@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Venkat
+# 👋 Hi, I'm Venkatramana Tellagorla
 
 🚀 B.Tech CSE Student | Aspiring Software Developer
 
