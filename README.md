@@ -1,19 +1,15 @@
-# 👋 Hi, I'm Venkatramana Tellagorla
+ Hi, I'm Venkatramana Tellagorla
+ B.Tech CSE Student | Aspiring Software Developer|Tech Enthusiast|DSA Learner
 
-🚀 B.Tech CSE Student | Aspiring Software Developer
 
----
+ About Me
 
-## 🧠 About Me
+*  3rd Year Computer Science Engineering Student
+* Interested in Web Development & Problem Solving
+* Practicing Data Structures & Algorithms
+* Goal: Crack top product-based companies
 
-* 🎓 3rd Year Computer Science Engineering Student
-* 💻 Interested in Web Development & Problem Solving
-* 🧩 Practicing Data Structures & Algorithms
-* 🎯 Goal: Crack top product-based companies
-
----
-
-## 🛠️ Tech Stack
+TECH-STACK:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -25,17 +21,12 @@
 </p>
 
 ---
-
-## 📚 Core Subjects
+ CORE SUBJECTS KNOWLEDGE:
 
 * Data Structures & Algorithms
 * DBMS
 * Operating Systems
+* Computer Networks And COA
 
 ---
 
-## 🔥 Current Focus
-
-* 🚀 Building real-world projects
-* 📈 Improving DSA skills
-* 🌐 Learning full stack development
